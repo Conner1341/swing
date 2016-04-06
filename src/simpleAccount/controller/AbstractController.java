@@ -1,9 +1,9 @@
 /**
- *  should be complete except for import statements
+ *  should be complete 
  */
-package conner.simpleAccount.controller;
-import simpleAccount.model.Model;  //does it need to be 'conner.simpleAccount...', or just 'simpleAccount.model...' ?
-import conner.simpleAccount.view.View;
+package simpleAccount.controller;
+import simpleAccount.model.Model;
+import simpleAccount.view.View;
 
 public abstract class AbstractController implements Controller {
 	private View view;

@@ -1,8 +1,8 @@
 /*
- *  should be complete except for clarification on imports
+ *  should be complete 
  */
 
-package conner.simpleAccount.controller;
+package simpleAccount.controller;
 import simpleAccount.model.Model;
 import simpleAccount.view.View;
 

@@ -1,13 +1,11 @@
 
-package conner.simpleAccount.controller;
+package simpleAccount.controller;
 
 public class AccountController extends AbstractController {
 
     /* constructor */
     public AccountController () {
-        setModel(new AccountModel());
-        setView(new AccountView((AccountModel)getModel(), this));
-        ((JFrameView)getView()).setVisible(true);  //setvis part of swing
+        //TODO
     }
 
     /* other methods to be implemented as needed */
