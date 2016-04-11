@@ -11,6 +11,9 @@ import simpleAccount.model.ModelListener;
 import simpleAccount.controller.Controller;
 
 abstract public class JFrameView extends JFrame implements View, ModelListener {
+	
+	/**	  	 */
+	private static final long serialVersionUID = 1L;
 	private Model model;
 	private Controller controller;
 

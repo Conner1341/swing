@@ -1,5 +1,9 @@
 
 package simpleAccount.controller;
+//import simpleAccount.model.Digit;
+//import simpleAccount.model.AccountModel;
+//import simpleAccount.view.AccountView;
+//import simpleAccount.view.JFrameView; 
 
 public class AccountController extends AbstractController {
 
@@ -11,8 +15,4 @@ public class AccountController extends AbstractController {
     /* other methods to be implemented as needed */
 }
 
-/* imports used for calc program
-import calc.model.Digit5;
-import calc.model.CalculatorModel;
-import calc.view.CalculatorView;
-import calc.view.JFrameView; */
+
